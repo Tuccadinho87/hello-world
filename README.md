@@ -1,6 +1,11 @@
 # Projeto GIT e GITHUB
 
-Uma breve introdução sobre os processo de GIT e GITHUB para programação de computador.
+Uma breve introduï¿½ï¿½o sobre os processo de GIT e GITHUB para programaï¿½ï¿½o de computador.
 
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+
+aula 
+
+aula 2
 
