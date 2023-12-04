@@ -1,13 +1,13 @@
 # CRIANDO PROJETO PORTIFOLIO GIT/GITHUB
 
-|Instalação GIT|
+|**_Instalação GIT_**|
 
-|Instalação GITHUB|
+|**_Instalação GITHUB_**|
 
-|Criação Portifolio|
+|**_Criação Portifolio_**|
 
-|Salvando dados Portifolio|
+|**_Salvando dados Portifolio_**|
 
-|Clonando dados do Portifolio|
+|**_Clonando dados do Portifolio_**|
 
 
