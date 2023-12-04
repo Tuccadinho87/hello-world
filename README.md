@@ -1,8 +1,6 @@
-# Projeto GIT e GITHUB
+# CRIANDO PROJETO PORTIFOLIO GIT/GITHUB
 
-Uma breve introdu��o sobre os processo de GIT e GITHUB para programa��o de computador.
-
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+UMA BREVE INTRODUÇÃO SOBRE OS PROCESSOS DE PORTIFOLIO USANDO DUAS PLATAFORMAS 
 
 
 aula 
