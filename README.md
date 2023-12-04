@@ -1,9 +1,9 @@
 # CRIANDO PROJETO PORTIFOLIO GIT/GITHUB
 
-UMA BREVE INTRODUÇÃO SOBRE OS PROCESSOS DE PORTIFOLIO USANDO DUAS PLATAFORMAS 
+[1] Instalação GIT
+[2] Instalação GITHUB
+[3] Criação Portifolio
+[4] Salvando dados Portifolio
+[5] Clonando dados do Portifolio 
 
-
-aula 
-
-aula 2
 
